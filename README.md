@@ -30,3 +30,20 @@
 -Crear la clase C52 (con el método mA())
 -Crear la clase C51Test
 -Crear la clase C52Test
+
+####La secuencia en el tiempo de las clases creadas o modificadas es:
+####C11,
+####C21, C21Test, C22, C22Test,
+####C11Test,
+####C31,
+####C12,
+####C31Test,
+####C12Test
+####C32, C32Test,
+####C21(m3()),
+####Cambiar pom: 1.1.0
+####C51, C51Test,
+####C31(mB()), terminar Release.1.0
+####C52,
+####C11(error en m1()) en la release liberada),
+####C52Test
