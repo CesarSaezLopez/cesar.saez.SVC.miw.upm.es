@@ -31,8 +31,7 @@
 #####-Crear la clase C51Test
 #####-Crear la clase C52Test
 
-
-###La secuencia en el tiempo de las clases creadas o modificadas es:
+##La secuencia en el tiempo de las clases creadas o modificadas es:
 ####C11,
 ####C21, C21Test, C22, C22Test,
 ####C11Test,
